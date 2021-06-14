@@ -1,0 +1,92 @@
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+
+
+#videos iframe
+{
+    width: 80%;
+}
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+#img1{
+    width: 100%;
+    float: left;
+}
+.achivement_header {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.achivement_header i {
+    float: right;
+}
+
+.achivement_text span {
+    color: #ff7700;
+}
+#achivements{
+    margin-bottom: 10px;
+}
+#whats_new{
+    margin-bottom: 10px;
+}
+#sec_whats_new-p2{
+    margin-top: 10px;
+    background-color: coral;
+}
+#sec_whats_new-p1{
+    margin-bottom: 5px;
+}
+#CL1_img1{
+    width: 100%;
+}
+#h4_sec_Cl_1{
+    text-align: center;
+}
+.book{
+    cursor: pointer;
+}
+.book hr{
+    margin-bottom: 10px;
+}
+.img_modal{
+    display: inline-block;
+}
+.p_modal{
+    margin-top: 10px;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.modal-body{
+    text-align: center;
+}
